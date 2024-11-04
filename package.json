@@ -1,0 +1,16 @@
+{
+  "name": "course-bot-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "course-bot-test": "file:",
+    "discord.js": "^14.16.3"
+  }
+}
